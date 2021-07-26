@@ -1,0 +1,11 @@
+
+	Asymptotic Logrank two-sample test (permutation form), Sun's scores
+
+data:  Surv(left, right, type = "interval2") by Homelessness 
+Z = 2.7254, p-value = 0.006422
+alternative hypothesis: survival distributions not equal
+
+                     n Score Statistic*
+Homelessness=TRUE   46         11.38385
+Homelessness=FALSE 442        -11.38385
+* like Obs-Exp, positive implies earlier failures than expected

@@ -1,0 +1,24 @@
+{
+    "id": "904EFC23",
+    "path": "~/Dropbox/Research/substance_abuse/homelessness_vs_retention/repro_homelessness_retention/repro_hvr/scripts/surivival_analysis.R",
+    "project_path": "surivival_analysis.R",
+    "type": "r_source",
+    "hash": "1756310256",
+    "contents": "",
+    "dirty": false,
+    "created": 1620404692930.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "18,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1620407078,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1620407078052,
+    "read_only": false,
+    "read_only_alternatives": []
+}
